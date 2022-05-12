@@ -65,4 +65,4 @@ function uploadTransaction() {
   };
 }
 
-window.addEventListener("online", uploadPizza);
+window.addEventListener("online", uploadTransaction);
